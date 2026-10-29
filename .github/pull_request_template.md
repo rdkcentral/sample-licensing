@@ -1,6 +1,6 @@
 ## Related issue
 
-<!-- Link the issue this pull request resolves, for example: Fixes #123. Write "N/A" if there is no related issue. -->
+<!-- Link the GitHub issue or Jira ticket this pull request addresses, for example: Fixes #123 or RDK-12345. Write "N/A" if there is no related issue. -->
 
 > If there is no related issue, complete the Problem and solution and Impact sections below.
 
