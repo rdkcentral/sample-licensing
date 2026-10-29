@@ -10,7 +10,7 @@
 
 ## Impact
 
-<!-- Which users, repositories, license families, workflows, or downstream consumers are affected? -->
+<!-- Identify the existing files or templates affected by this change. State whether it changes licensing obligations, attribution, distribution terms, or requires action from downstream users. Write "No downstream impact" if none. -->
 
 ## Type of change
 
