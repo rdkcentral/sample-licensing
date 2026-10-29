@@ -10,7 +10,7 @@
 
 ## Impact
 
-<!-- Identify the existing files or templates affected by this change. State whether it changes licensing obligations, attribution, distribution terms, or requires action from downstream users. Write "No downstream impact" if none. -->
+<!-- Describe the expected result of this change. -->
 
 ## Type of change
 
